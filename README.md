@@ -2,6 +2,10 @@
 
 A modern, responsive web application for managing code snippets with syntax highlighting, search, and organization features. Built specifically to demonstrate understanding of AI-powered coding platforms and React development skills.
 
+[🌐 **Live Demo**](https://ai-code-snippet-manager-basic.vercel.app/)
+
+A modern, responsive web application for managing code snippets...
+
 ![React](https://img.shields.io/badge/React-18.3-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.4-purple)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-cyan)
@@ -83,9 +87,6 @@ npm run preview
 
 ### Add Snippet Form
 ![Add Form](screenshots/add-snippet.png)
-
-### Search & Filter
-![Search](screenshots/search-filter.png)
 
 ## 🎯 Use Cases
 
