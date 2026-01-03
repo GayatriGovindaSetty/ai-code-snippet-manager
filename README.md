@@ -2,7 +2,7 @@
 
 A modern, responsive web application for managing code snippets with syntax highlighting, search, and organization features. Built specifically to demonstrate understanding of AI-powered coding platforms and React development skills.
 
-[🌐 **Live Demo**](https://ai-code-snippet-manager-basic.vercel.app/)
+[🌐 **Live Demo**](https://ai-code-snippet-manager-pi.vercel.app/)
 
 A modern, responsive web application for managing code snippets...
 
